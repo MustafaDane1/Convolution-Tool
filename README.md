@@ -1,2 +1,4 @@
-This script implements a custom convolution function and compares it with a built-in one using plots. It also records audio, applies both convolution methods to the recording, and compares the results.
+This Python program implements a custom convolution function and compares it with a built-in one using plots. It records audio, applies both methods, and allows you to listen and compare the results.
+
+
 
